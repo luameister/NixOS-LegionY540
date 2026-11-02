@@ -116,7 +116,7 @@
 
   # System Packages
   environment.systemPackages = with pkgs; [
-    git neovim wget curl htop fastfetch spotify firefox
+    git neovim wget curl htop fastfetch spotify firefox obsidian
   ];
 
   # List packages installed in system profile.
