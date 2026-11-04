@@ -8,7 +8,6 @@
     open = true;                      # supported on Turing (RTX 20xx)
     
     powerManagement.enable = true;
-    powerManagement.finegrained = true;
 
     prime = {
       offload.enable = true;
