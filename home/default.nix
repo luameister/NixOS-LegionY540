@@ -22,5 +22,6 @@
     fastfetch
     spotify
     obsidian
+    discord
   ];
 }
